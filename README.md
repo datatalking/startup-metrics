@@ -21,7 +21,7 @@ A comprehensive Streamlit dashboard for startup founders and teams to track, ana
   - Customer flow visualization
 
 - 🔄 **Scenario Analysis**
-  - Best case, normal case, and worst case projections
+  - Best-case, normal-case, and worst-case projections
   - Customizable growth models
   - Interactive visualizations
 
@@ -30,7 +30,7 @@ A comprehensive Streamlit dashboard for startup founders and teams to track, ana
 1. Clone this repository
    ```bash
    git clone https://github.com/gperakis/startup-metrics.git
-   cd startup-metrics-dashboard
+   cd startup-metrics
    ```
 
 2. Install the required packages
