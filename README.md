@@ -60,7 +60,7 @@ A comprehensive Streamlit dashboard for startup founders and teams to track, ana
 
 ## Requirements
 
-- Python 3.7+
+- Python 3.11+
 - Streamlit
 - Plotly
 - Other dependencies listed in `requirements.txt`
